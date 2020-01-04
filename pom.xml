@@ -98,18 +98,18 @@
 
 	</dependencies>
 	
-	<!--<distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Bharath Releases Nexus Repository</name>
-	      <url>http://35.154.146.168:8081/repository/flipkart-releases/</url>
+	      <url>http://13.127.169.183:8081/repository/flipkart-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Bharath Snapshot Nexus Repository </name>
-	      <url>http://35.154.146.168:8081/repository/flipkart-snapshot/</url>
+	      <url>http://13.127.169.183:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<plugins>
