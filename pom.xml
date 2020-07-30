@@ -98,6 +98,14 @@
 		    <artifactId>logback-classic</artifactId>
 		    <version>1.2.3</version>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-deploy-plugin</artifactId>
+    <version>2.7</version>
+</dependency>
+
 
 	</dependencies>
 	
